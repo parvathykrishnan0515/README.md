@@ -34,50 +34,33 @@ To secure a SOC Tier 1 Analyst position where I can apply my skills in security 
 ### 🌐 Network Security
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firewall-FF6F00?&style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Snort-EE0000?&style=for-the-badge&logoColor=white" />
 </div>
 
-### 💻 Endpoint & DFIR
+### 💻 Endpoint & DLP
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Symantec_Endpoint_Security-FFD100?&style=for-the-badge&logoColor=black" />
 </div>
 
 ### 📊 SIEM & Monitoring
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ---
 
-## 🧪 Projects
-
-### 🔐 Image Steganography Combined with Cryptography
-- Designed a secure data transmission system using **AES encryption** and **steganography**
-- Ensured confidentiality, integrity, and resistance to tampering  
-- **Skills:** AES, Diffie-Hellman, Steganography
-
-### 🛡️ Phishing & Ransomware Detection Using Machine Learning
-- Built ML models (Decision Tree, Random Forest) to detect malicious behaviour
-- Performed feature extraction and model evaluation  
-- **Skills:** Machine Learning, Threat Detection, Data Preprocessing
-
-### 🏠 IoT Home Automation System
-- Developed a smart home automation prototype
-- Focused on reliability, efficiency, and user security  
-- **Skills:** IoT, Embedded Systems, Automation
-
----
 
 ## 📜 Certifications
 <div>
   <img src="https://img.shields.io/badge/-CEH-006400?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TCS_Cybersecurity_Analyst-005BAC?&style=for-the-badge&logo=tata&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco_Network_Support_%26_Security-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python_Django-092E20?&style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Fortinet_NSE_1-005571?&style=for-the-badge&logoColor=white" />
 </div>
