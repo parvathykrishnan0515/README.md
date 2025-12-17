@@ -70,7 +70,6 @@ To secure a SOC Tier 1 Analyst position where I can apply my skills in security 
 ## 📫 Contact
 📍 Norwich, UK  
 📧 parvathykrishnan0515@gmail.com  
-🔗 LinkedIn: https://linkedin.com  
 
 ---
 
