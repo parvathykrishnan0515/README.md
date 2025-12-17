@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Parvathy Krishnan
 
-<a href="https://linkedin.com">
  <a href="https://www.linkedin.com/in/parvathy-krishnan-60b08038b/"> 
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
