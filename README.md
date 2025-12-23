@@ -21,7 +21,7 @@ To secure a SOC Tier 1 Analyst position where I can apply my skills in security 
 | Skill | Associated Project |
 |------|-------------------|
 | SIEM Implementation & Log Analysis | [SOC Lab1](https://github.com/parvathykrishnan0515/SOC-Home-Lab1) |
-| Network Traffic Monitoring & Attack Detection | [Incident Responce Case Study](https://google.com) |
+| Network Traffic Monitoring & Attack Detection | [Incident Responce Case Study](https://github.com/parvathykrishnan0515/Incident-Response-Case-Studies) |
 | Security Automation (Shuffle SOAR) | SOC Automation Lab |
 | Incident Response & Playbook Execution | SOC Automation Lab |
 | Case Management (TheHive) | SOC Automation Lab |
